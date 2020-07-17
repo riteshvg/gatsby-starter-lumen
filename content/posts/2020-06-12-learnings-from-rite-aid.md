@@ -1,8 +1,8 @@
 ---
 template: post
-title: Learnings from a Pharma Client
+title: Implementation Learnings from a Pharma Client
 slug: analytics-implementation-eddl-approach
-draft: true
+draft: false
 date: 2020-06-12T07:54:27.841Z
 description: "A project retrospective is a good place to start reminiscing about
   the learning of a project and how the scope of work defined your months of
